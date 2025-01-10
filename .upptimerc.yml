@@ -15,6 +15,7 @@ status-website:
   #cname: demo.upptime.js.org
   #baseUrl: /uptime
   logoUrl: https://trendspek.cloud/assets/images/Trendspek_Logo_Black_Orange_RGB-70h.png
+  favicon: https://trendspek.com/user/themes/trendspek/images/favicon.png
   themeUrl: https://status.trendspek.com/trendspek.css
   #theme: light
   cname: status.trendspek.com
