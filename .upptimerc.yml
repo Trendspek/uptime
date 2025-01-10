@@ -3,10 +3,10 @@ owner: Trendspek # Your GitHub organization or username, where this repository l
 repo: uptime # The name of this repository
 
 sites:
-  - name: Trendspek
-    url: https://trendspek.cloud/health.php
   - name: Trendspek Website
     url: https://trendspek.com
+  - name: Trendspek Application
+    url: https://trendspek.cloud/health.php
 assignees:
   - bluehaoran
 status-website:
@@ -20,13 +20,14 @@ status-website:
   #theme: light
   cname: status.trendspek.com
   name: Trendspek
-  introTitle: "Trendspek, monitored by **Upptime**."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Trendspek Status"
+  introMessage: Below, find status information for Trendspek services. To report an issue, contact support@trendspek.com.
   navbar:
     - title: Status
       href: /
     - title: Trendspek
       href: https://trendspek.com
-
+i18n:
+  footer: This page is powered by [Upptime](https://upptime.js.org)
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
