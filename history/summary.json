@@ -1,23 +1,5 @@
 [
   {
-    "name": "Trendspek",
-    "url": "https://trendspek.cloud/health.php",
-    "icon": "https://icons.duckduckgo.com/ip3/trendspek.cloud.ico",
-    "slug": "trendspek",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1243,
-    "timeDay": 1392,
-    "timeWeek": 1243,
-    "timeMonth": 1243,
-    "timeYear": 1243,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "Trendspek Website",
     "url": "https://trendspek.com",
     "icon": "https://icons.duckduckgo.com/ip3/trendspek.com.ico",
@@ -28,11 +10,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1224,
-    "timeDay": 1123,
-    "timeWeek": 1224,
-    "timeMonth": 1224,
-    "timeYear": 1224,
+    "time": 1226,
+    "timeDay": 1148,
+    "timeWeek": 1226,
+    "timeMonth": 1226,
+    "timeYear": 1226,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Trendspek Application",
+    "url": "https://trendspek.cloud/health.php",
+    "icon": "https://icons.duckduckgo.com/ip3/trendspek.cloud.ico",
+    "slug": "trendspek-application",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1235,
+    "timeDay": 1235,
+    "timeWeek": 1235,
+    "timeMonth": 1235,
+    "timeYear": 1235,
     "dailyMinutesDown": {}
   }
 ]
