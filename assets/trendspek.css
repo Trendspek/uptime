@@ -22,3 +22,9 @@
   --submit-button-background-color: #3867d6;
   --submit-button-color: #ffffff;
 }
+
+a.logo > div,
+main > header,
+footer {
+  display: none;
+}
