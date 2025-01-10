@@ -24,7 +24,6 @@
 }
 
 a.logo > div,
-main > header,
 footer {
   display: none;
 }
