@@ -4,18 +4,20 @@
     "url": "https://trendspek.com",
     "icon": "https://icons.duckduckgo.com/ip3/trendspek.com.ico",
     "slug": "trendspek-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1226,
-    "timeDay": 1055,
-    "timeWeek": 1222,
-    "timeMonth": 1238,
-    "timeYear": 1226,
-    "dailyMinutesDown": {}
+    "time": 1209,
+    "timeDay": 649,
+    "timeWeek": 1100,
+    "timeMonth": 1208,
+    "timeYear": 1209,
+    "dailyMinutesDown": {
+      "2025-02-23": 0
+    }
   },
   {
     "name": "Trendspek Application",
