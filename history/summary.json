@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/trendspek.com.ico",
     "slug": "trendspek-website",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 755,
-    "timeDay": 135,
-    "timeWeek": 339,
-    "timeMonth": 248,
-    "timeYear": 755,
+    "uptimeYear": "99.98%",
+    "time": 750,
+    "timeDay": 187,
+    "timeWeek": 346,
+    "timeMonth": 251,
+    "timeYear": 750,
     "dailyMinutesDown": {
       "2025-02-23": 35
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 990,
-    "timeDay": 967,
-    "timeWeek": 1029,
+    "time": 992,
+    "timeDay": 1226,
+    "timeWeek": 997,
     "timeMonth": 966,
-    "timeYear": 990,
+    "timeYear": 992,
     "dailyMinutesDown": {}
   }
 ]
