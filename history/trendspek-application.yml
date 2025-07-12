@@ -1,7 +1,7 @@
 url: https://trendspek.cloud/health.php
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-07-12T06:50:01.461Z
+status: up
+code: 200
+responseTime: 1246
+lastUpdated: 2025-07-12T07:31:23.681Z
 startTime: 2025-01-10T03:50:08.966Z
 generator: Upptime <https://github.com/upptime/upptime>
