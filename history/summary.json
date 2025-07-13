@@ -27,13 +27,13 @@
     "slug": "trendspek-application",
     "status": "up",
     "uptime": "98.18%",
-    "uptimeDay": "68.61%",
-    "uptimeWeek": "61.22%",
-    "uptimeMonth": "88.94%",
+    "uptimeDay": "72.78%",
+    "uptimeWeek": "62.08%",
+    "uptimeMonth": "88.99%",
     "uptimeYear": "98.18%",
     "time": 1068,
-    "timeDay": 1329,
-    "timeWeek": 1105,
+    "timeDay": 1368,
+    "timeWeek": 1102,
     "timeMonth": 1130,
     "timeYear": 1068,
     "dailyMinutesDown": {
@@ -46,7 +46,7 @@
       "2025-07-07": 608,
       "2025-07-06": 756,
       "2025-07-05": 377,
-      "2025-07-04": 94
+      "2025-07-04": 72
     }
   }
 ]
