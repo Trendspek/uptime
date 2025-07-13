@@ -25,15 +25,15 @@
     "url": "https://trendspek.cloud/health.php",
     "icon": "https://icons.duckduckgo.com/ip3/trendspek.cloud.ico",
     "slug": "trendspek-application",
-    "status": "up",
-    "uptime": "98.18%",
-    "uptimeDay": "71.48%",
-    "uptimeWeek": "61.10%",
-    "uptimeMonth": "88.99%",
-    "uptimeYear": "98.18%",
+    "status": "down",
+    "uptime": "98.19%",
+    "uptimeDay": "71.47%",
+    "uptimeWeek": "61.43%",
+    "uptimeMonth": "89.03%",
+    "uptimeYear": "98.19%",
     "time": 1067,
     "timeDay": 1332,
-    "timeWeek": 1100,
+    "timeWeek": 1104,
     "timeMonth": 1128,
     "timeYear": 1067,
     "dailyMinutesDown": {
@@ -46,7 +46,7 @@
       "2025-07-07": 608,
       "2025-07-06": 756,
       "2025-07-05": 377,
-      "2025-07-04": 112
+      "2025-07-04": 94
     }
   }
 ]
