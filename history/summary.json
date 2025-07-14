@@ -26,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/trendspek.cloud.ico",
     "slug": "trendspek-application",
     "status": "up",
-    "uptime": "98.18%",
-    "uptimeDay": "70.84%",
-    "uptimeWeek": "62.33%",
-    "uptimeMonth": "88.93%",
-    "uptimeYear": "98.18%",
+    "uptime": "98.17%",
+    "uptimeDay": "77.89%",
+    "uptimeWeek": "63.07%",
+    "uptimeMonth": "88.86%",
+    "uptimeYear": "98.17%",
     "time": 1074,
-    "timeDay": 1338,
+    "timeDay": 1333,
     "timeWeek": 1112,
     "timeMonth": 1142,
     "timeYear": 1074,
     "dailyMinutesDown": {
-      "2025-07-13": 411,
+      "2025-07-13": 401,
       "2025-07-12": 472,
       "2025-07-11": 575,
       "2025-07-10": 569,
@@ -45,7 +45,7 @@
       "2025-07-08": 632,
       "2025-07-07": 608,
       "2025-07-06": 756,
-      "2025-07-05": 297
+      "2025-07-05": 339
     }
   }
 ]
